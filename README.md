@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <a href="hazemhassan0321@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hazemhassan0321@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/hazemhassan03" target="_blank">
